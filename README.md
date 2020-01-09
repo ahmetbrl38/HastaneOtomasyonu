@@ -1,2 +1,2 @@
 # HastaneOtomasyonu
-  C#  ile Sql Tabanlı Hastane Otomasyonu
+  C#  ile Sql Tabanlı Hastane Otomasyonu Projesi
